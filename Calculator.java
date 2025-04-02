@@ -14,6 +14,7 @@ public class Calculator() {
 	public double subtraction(double a, double b) {
 		return a - b;
 	}
+<<<<<<< HEAD
 
 	public int multiply(int a, int b) {
 		return a * b;
@@ -30,4 +31,6 @@ public class Calculator() {
 	public double divide(double a, double b) {
 		return a / b;
 	}
+=======
+>>>>>>> parent of 1c80bcb (Added a feature to multiply integers and decimal numbers.)
 }	
